@@ -73,6 +73,7 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/odin/proprietary/etc/firmware/goodixfp.mdt:system/etc/firmware/goodixfp.mdt \
     vendor/smartisan/odin/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/smartisan/odin/proprietary/vendor/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sensor_def_qcomdev.conf \
+    vendor/smartisan/odin/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
     vendor/smartisan/odin/proprietary/vendor/lib/libalColorMono.so:$(TARGET_COPY_OUT_VENDOR)/lib/libalColorMono.so \
     vendor/smartisan/odin/proprietary/vendor/lib/libalRnB.so:$(TARGET_COPY_OUT_VENDOR)/lib/libalRnB.so \
     vendor/smartisan/odin/proprietary/vendor/lib/libalSDE2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libalSDE2.so \
